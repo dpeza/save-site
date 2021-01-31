@@ -1,0 +1,107 @@
+    {
+        "main": {
+            "name": "SAVE Club",
+            "occupation": "Head Instructor @CleverProgrammer",
+            "description": "Organization Dedicated to Preventing Domestic Abuse",
+            "image": "Naz.jpg",
+            "bio": "An non-profit organization dedicated to preventing domestic abuse.",
+            "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+            "email": "naz@cleverprogrammer.com",
+            "phone": "+1 800 NAZ DUMA",
+            "address": {
+                "street": "123 Fake Street",
+                "city": "Beverly Hills",
+                "state": "CA",
+                "zip": "90035"
+            },
+            "website": "http://www.timbakerdev.com",
+            "resumedownload": "http://timbakerdev.com",
+            "social": [
+                {
+                    "name": "facebook",
+                    "url": "https://www.facebook.com/nazariy1995",
+                    "className": "fa fa-facebook"
+                },
+                {
+                    "name": "instagram",
+                    "url": "https://www.instagram.com/saveclubofficial/",
+                    "className": "fa fa-instagram"
+                }
+            ]
+            },
+            "resume": {
+            "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+            "education": [
+                {
+                "school": "University of Michigan - Dearborn",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "January 2017",
+                "description": "Graduated with Distinction"
+                }
+            ],
+            "work": [
+                {
+                "company": "Clever Programmer",
+                "title": "JavaScript/Python Specialist",
+                "years": "May 2019 - Present",
+                "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+                },
+                {
+                "company": "NazaWEb",
+                "title": "Founder / Developer",
+                "years": "Jan 2019 - Present",
+                "description": "Helping businesses showing their best selves to clients."
+                }
+            ],
+            "skills": [
+                {
+                "name": "ReactJs",
+                "level": "100%"
+                },
+                {
+                "name": "Python",
+                "level": "95%"
+                },
+                {
+                "name": "Git",
+                "level": "75%"
+                },
+                {
+                "name": "JavaScript",
+                "level": "100%"
+                },
+                {
+                "name": "MongoDB",
+                "level": "80%"
+                }
+            ]
+        },
+    "portfolio": {
+        "projects": [
+                {
+                    "title": "AVDAs Race For the Cure",
+                    "category": "Race For the Cure",
+                    "image": "dd.jpg",
+                    "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+                },
+                {
+                    "title": "Robinhood Clone",
+                    "category": "Robinhood Clone built with ReactJS",
+                    "image": "robinhood.jpg",
+                    "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+                }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "SAVE club has helped me in ways I cannot describe.",
+                "user": "Annonymous Domestic Abuse Victim"
+            },
+            {
+                "text": "I don't know what I would do without the supplies generously donated by SAVE club",
+                "user": "Annonymous Domestic Abuse Victim"
+            }
+        ]
+    }
+}
